@@ -1,4 +1,5 @@
-
+//npm run build 
+//firebase deploy --only hosting --project clouddhanu-7deee
 import { useState } from 'react'
 import './App.css'
 
